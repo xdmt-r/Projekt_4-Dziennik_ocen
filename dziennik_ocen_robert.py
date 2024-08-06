@@ -41,12 +41,6 @@ child7 = {
     3: dict(Przyrka=[]),
     4: dict(Fizyka=[])
 }
-child8 = {
-    1: dict(Matematyka=[]),
-    2: dict(Polski=[]),
-    3: dict(Przyrka=[]),
-    4: dict(Fizyka=[])
-}
 
 lista_obecnosci = {
     1: child1,
@@ -56,7 +50,6 @@ lista_obecnosci = {
     5: child5,
     6: child6,
     7: child7,
-    8: child8
 }
 
 students = {
@@ -67,7 +60,6 @@ students = {
     5: dict(child5="Edek"),
     6: dict(child6="Filip Filip"),
     7: dict(child7="grażyna Grażyna"),
-    8: dict(child8="janusz janusz")
 }
 
 # pokazuje imię i nazwisko oraz numer w dzienniku ucznia.
